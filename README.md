@@ -7,3 +7,5 @@ figure mapping nucleotide frequency in splice sites.
 
 The stylesheet vollmers.mplstyle must be moved to:
 /home/'username'/.local/lib/python3.5/site-packages/matplotlib/mpl-data/stylelib
+
+Data, stylesheet, and guidance provided by Prof. Christopher Vollmers
